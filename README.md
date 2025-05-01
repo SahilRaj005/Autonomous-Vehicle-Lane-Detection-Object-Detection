@@ -42,20 +42,6 @@ Add [ByteTrack](https://github.com/ifzhang/ByteTrack) to determine the driving d
     ```
     
 
-<h1 id="Examples">➤ Examples</h1>
-
- * ***Download YOLO Series Onnx model*** :
-
-    Use the Google Colab notebook to convert 
-    
-    | Model           | release version                  |  Link                                             | 
-    | :-------------  |:-------------------------------- | :------------------------------------------------ | 
-    | YOLOv5          | `v6.2`                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwoA3_-f3QIcHtLSuGN5WVszKeZ_i366?usp=sharing)     | 
-    | YOLOv6/Lite     | `0.4.0`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FhyQvDUzUVgPwYB1DSADfCm_CG09D9Ab?usp=sharing)       | 
-    | YOLOv7          | `v0.1`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1arGcVT32Sm3zxhql2jgAa5xIEZdsDq9D?usp=sharing)  |
-    | YOLOv8          | `8.1.27`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mrhgTaZFQWWwhf0jcMwD_tOjmXfMh3pS?usp=sharing)  |
-    | YOLOv9          | `v0.1`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12oFXgco3CARzhU8CiLCpf_6oBA3sAvPT?usp=sharing) |
-    | YOLOv10          | `8.2.41`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RqkZj6u0iwZknGt_VI4J4h93gNzwF94P?usp=sharing) |
 
 
  * ***Convert Onnx to TenserRT model*** :
@@ -112,14 +98,6 @@ Add [ByteTrack](https://github.com/ifzhang/ByteTrack) to determine the driving d
     ```
     python demo.py
     ```
-
-<h1 id="Demo">➤ Demo</h1>
-
-* [***Demo Youtube Video***](https://www.youtube.com/watch?v=CHO0C1z5EWE)
-
-* ***Display***
-
-    ![!ADAS on video](https://github.com/jason-li-831202/Vehicle-CV-ADAS/blob/master/demo/demo-gif.gif)
 
 * ***Front Collision Warning System (FCWS)***
 
