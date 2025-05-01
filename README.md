@@ -9,10 +9,6 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
-Example scripts for the detection of lanes using the [ultra fast lane detection v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) model in ONNX/TensorRT.
-
-Example scripts for the detection of objects using the [YOLOv5](https://github.com/ultralytics/yolov5)/[YOLOv5-lite](https://github.com/ppogg/YOLOv5-Lite)/[YOLOv6](https://github.com/meituan/YOLOv6)/[YOLOv7](https://github.com/WongKinYiu/yolov7)/[YOLOv8](https://github.com/ultralytics/ultralytics)/[YOLOv9](https://github.com/WongKinYiu/yolov9)/[YOLOv10](https://github.com/ultralytics/ultralytics)/[EfficientDet](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) model in ONNX/TensorRT.
-
 
 
 <h1 id="Requirements">➤ Requirements</h1>
