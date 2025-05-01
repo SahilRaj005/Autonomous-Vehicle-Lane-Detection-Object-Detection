@@ -4,7 +4,7 @@ from onnxconverter_common import float16
 # from onnxruntime.quantization import quantize_dynamic, QuantType
 from pathlib import Path
 
-parser = argparse.ArgumentParser(description='https://github.com/jason-li-831202/Vehicle-CV-ADAS')
+parser = argparse.ArgumentParser(description='https://github.com/SahilRaj005/Autonomous-Vehicle-Lane-Detection-Object-Detection/tree/main')
 parser.add_argument('--input_onnx_model', '-i', default='./ObjectDetector/models/yolov5m-coco_fp32.onnx', type=str, help='onnx model path.')
 
 
